@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tarea1_ProMovil1</string>
+    <string name="txtNum1">numero 1</string>
+    <string name="txtNum2">Numero 2</string>
+    <string name="txtResul">Resultado</string>
+    <string name="btnsum">Suma</string>
+    <string name="btnres">Resta</string>
+    <string name="btnmult">Multiplicacion</string>
+    <string name="btndiv">Division</string>
+    <string name="btnAtras">Regresar</string>
+</resources>
